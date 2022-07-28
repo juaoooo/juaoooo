@@ -1,0 +1,5 @@
+- 👋 olá eu sou @joao
+- 👀 estou interessado em aprender maximo
+- 🌱 atualmente estou aprendendo programação,robotica
+- 💞️ procuro colaborar em tudo que eu puder 
+- 📫 meu imail é joao.passos.lopes@escola.pr.gov.br
